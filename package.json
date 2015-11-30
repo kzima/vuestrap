@@ -1,0 +1,28 @@
+{
+  "name": "vuestrap",
+  "version": "0.1.0",
+  "description": "Vuestrap Javascript wrapper for Bootstrap 4 components.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kzima/vuestrap.git"
+  },
+  "keywords": [
+    "bootstrap4",
+    "vuestrap",
+    "vue-components",
+    "web-components"
+  ],
+  "author": {
+    "name": "Kris Zima",
+    "email": "kris@mosquito.ie",
+    "url": "https://github.com/kzima"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kzima/vuestrap/issues"
+  },
+  "devDependencies": {
+  },
+  "homepage": "https://github.com/kzima/vuestrap#readme"
+}
