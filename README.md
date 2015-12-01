@@ -36,7 +36,7 @@ import 'vuestrap'
 
 List of components using vuestrap
 =========
-- [Base Vuestrap Components](http://gritcode.github.io/vuestrap-base-components/#/alert) - A complete set of Bootstrap 4 components -- *by kzima*
+- [Base Vuestrap Components](http://kzima.github.io/vuestrap-base-components/#/alert) - A complete set of Bootstrap 4 components -- *by kzima*
 - [Svg Icons](http://kzima.github.io/vuestrap-icons/#/icons) - A complementary set of svg icons wrapped in a `<icon>` component -- *by kzima*
 - [Docs for web components](http://kzima.github.io/vuestrap-docs/#/demo) - Components use in Vuestrap Docs to showcase other web components -- *by kzima*
 
