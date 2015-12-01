@@ -8,7 +8,7 @@ Primarily used as a foundation to an open source library of components built wit
 The Concept
 =========
 
-![alt text](assets/web-componetns-concept.png "Web components")
+![alt text](web-components-concept.png "Web components")
 
 Usage
 =========
