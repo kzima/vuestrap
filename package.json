@@ -22,7 +22,8 @@
   "bugs": {
     "url": "https://github.com/kzima/vuestrap/issues"
   },
-  "devDependencies": {
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2"
   },
   "homepage": "https://github.com/kzima/vuestrap#readme"
 }

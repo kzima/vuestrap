@@ -17,8 +17,6 @@
     > img,
     > a > img {
       @extend .img-fluid;
-      // KZ FIX
-      @include img-fluid(inline-block);
       line-height: 1;
     }
 
