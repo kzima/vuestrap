@@ -1,6 +1,6 @@
 {
   "name": "vuestrap",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Vuestrap Javascript wrapper for Bootstrap 4 components.",
   "main": "index.js",
   "repository": {
