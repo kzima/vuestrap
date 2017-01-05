@@ -1,2 +1,2 @@
 // import dependencies
-import '../../bootstrap/_labels.scss'
+import '../../bootstrap/_tags.scss'
